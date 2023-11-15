@@ -5,3 +5,7 @@ variable "db_name" {
 variable "db_username" {
   description = "RDS root username"
 }
+
+variable "doesnt_exist" {
+  description = "hello"
+}
